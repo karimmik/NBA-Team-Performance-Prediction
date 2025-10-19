@@ -7,9 +7,9 @@
 ---
 
 ## 🌟 Overview
-This project explores how **recommendation system techniques** can be reimagined beyond traditional user–item domains — applying them to **team performance prediction** in NBA games.  
+This project explores how **recommendation system techniques** can be reimagined beyond traditional user–item domains - applying them to **team performance prediction** in NBA games.  
 
-The core idea is to investigate how **Collaborative Filtering (CF)** and **Context-aware Filtering (CxF)** can be used — and combined — to predict match outcomes.  
+The core idea is to investigate how **Collaborative Filtering (CF)** and **Context-aware Filtering (CxF)** can be used, and combined, to predict match outcomes.  
 Additionally, multiple **ensembling strategies** are tested to evaluate whether hybrid approaches can outperform individual models and which one is better.
 
 ---
