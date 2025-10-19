@@ -52,6 +52,13 @@ Ensemble methods further stabilize results and balance variance, showing potenti
 
 ---
 
+## 📚 References
+1. Geetha, G., Safa, M., Fancy, C., & Saranya, D. (2018). A Hybrid Approach using Collaborative filtering and Content based Filtering for Recommender System. Journal of Physics Conference Series, 1000, 012101. https://doi.org/10.1088/1742-6596/1000/1/012101
+2. Widayanti, R. (2023). Improving Recommender Systems using Hybrid Techniques of Collaborative Filtering and Content-Based Filtering. Journal of Applied Data Sciences, 4(3), 289–302. https://doi.org/10.47738/jads.v4i3.115
+3. Thorat, P.B., Goudar, R.M. and Barve, S., 2015. Survey on collaborative filtering, content-based filtering and hybrid recommendation system. International Journal of Computer Applications, 110(4), pp.31-36.
+
+---
+
 ## All used datasets can be found through the links:
 1. https://www.kaggle.com/datasets/nathanlauga/nba-games?select=players.csv
 2. https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?resource=download&select=Advanced.csv
