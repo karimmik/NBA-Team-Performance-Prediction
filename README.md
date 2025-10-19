@@ -43,10 +43,12 @@ Ensemble methods further stabilize results and balance variance, showing potenti
 ---
 
 ## 📁 Project Structure
+```
 ├── NBA_Game_Prediction.ipynb # Main notebook with full implementation
 ├── Mikhail_Karimov_NBA_Team_Performance_Prediction_using_PML.docx # Scientific report
 ├── Mikhail_Karimov_PML_poster.docx # Academic poster
 └── README.md # You are here
+```
 
 ---
 
